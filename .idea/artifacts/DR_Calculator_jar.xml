@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DR Calculator:jar">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="archive" name="DR Calculator.jar">
+      <element id="module-output" name="DR Calculator" />
+    </root>
+  </artifact>
+</component>
